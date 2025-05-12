@@ -44,6 +44,12 @@ dependencies:
   local_auth:
   shimmer:
   google_fonts:
+  shared_preferences:
+  flutter_bloc:
+  connectivity_plus:
+  dio:
+  equatable:
+  intl:
 
 dev_dependencies:
   flutter_test:
