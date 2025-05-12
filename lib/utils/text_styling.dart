@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'color_constants.dart';
 
 final TextStyle kTitleStyle =  TextStyle(
-  color: kPrimaryColor,
+  color: Colors.white,
   fontSize: 15,
   fontWeight: FontWeight.bold,
 );

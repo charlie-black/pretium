@@ -37,6 +37,13 @@ dependencies:
   hexcolor:
   flutter_spinkit:
   logger:
+  go_router:
+  font_awesome_flutter:
+  bottom_navy_bar:
+  pin_code_fields:
+  local_auth:
+  shimmer:
+  google_fonts:
 
 dev_dependencies:
   flutter_test:
@@ -61,7 +68,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
+  assets:
+    - assets/
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
